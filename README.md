@@ -47,9 +47,9 @@ With [MacPorts][] you can install support for individual languages, like so:
 
 But that is not possible with [Homebrew][]. It comes only with **English** support
 by default, so if you intend to use it for other language, the quickest solution
-is to install them all:
+is to install `tesseract-lang` as well:
 
-    $ brew install tesseract --with-all-languages
+    $ brew install tesseract-lang
 
 <br/>
 
